@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | Freelancer
 
-¡Hola! Soy Alexis Ariel Michia, un desarrollador Full Stack con experiencia en el desarrollo web y en el uso de tecnologías como JavaScript, Python, Node.js y bases de datos SQL. También tengo habilidades en el uso de herramientas de colaboración como Git, Jira, Confluence y Slack. Soy un apasionado de la programación y siempre estoy buscando aprender y crecer en el campo de la tecnología.
+¡Hola! Soy Alexis Ariel Michia, un desarrollador Full Stack con experiencia en el desarrollo web y en el uso de tecnologías como JavaScript, Python, Node.js y bases de datos PSQL. También tengo habilidades en el uso de herramientas de colaboración como Git, Jira, Confluence y Slack. Soy un apasionado de la programación y siempre estoy buscando aprender y crecer en el campo de la tecnología.
 
 ### Tecnologías y Habilidades
 
